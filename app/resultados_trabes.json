@@ -1,0 +1,252 @@
+{
+    "min_negativos": {
+        "End-I": [
+            {
+                "Story": "Story2",
+                "Label": "B11",
+                "UniqueName": 90,
+                "Section": "CB-12 40x60",
+                "Location": "End-I",
+                "Moment negative": -2326797.02,
+                "Combo": "6) 1.1CMT+1.1CVI-.33SDY-1.1SDX",
+                "As Top": 11.52,
+                "Moment positive": 747603.37,
+                "Combo.1": "6) 1.1CMT+1.1CVI-.33SDY-1.1SDX",
+                "As Bot": 4.72
+            },
+            {
+                "Story": "Story2",
+                "Label": "B9",
+                "UniqueName": 66,
+                "Section": "CB-12 40x60",
+                "Location": "End-I",
+                "Moment negative": -2317952.58,
+                "Combo": "6) 1.1CMT+1.1CVI-.33SDY-1.1SDX",
+                "As Top": 11.47,
+                "Moment positive": 653930.29,
+                "Combo.1": "6) 1.1CMT+1.1CVI-.33SDY-1.1SDX",
+                "As Bot": 4.12
+            },
+            {
+                "Story": "Story2",
+                "Label": "B8",
+                "UniqueName": 69,
+                "Section": "CB-12 40x60",
+                "Location": "End-I",
+                "Moment negative": -2291280.69,
+                "Combo": "6) 1.1CMT+1.1CVI-.33SDY-1.1SDX",
+                "As Top": 11.33,
+                "Moment positive": 713511.58,
+                "Combo.1": "6) 1.1CMT+1.1CVI-.33SDY-1.1SDX",
+                "As Bot": 4.5
+            }
+        ],
+        "End-J": [
+            {
+                "Story": "Story2",
+                "Label": "B11",
+                "UniqueName": 90,
+                "Section": "CB-12 40x60",
+                "Location": "End-J",
+                "Moment negative": -2367841.72,
+                "Combo": "6) 1.1CMT+1.1CVI-.33SDY-1.1SDX",
+                "As Top": 11.74,
+                "Moment positive": 719473.61,
+                "Combo.1": "6) 1.1CMT+1.1CVI-.33SDY-1.1SDX",
+                "As Bot": 4.54
+            },
+            {
+                "Story": "Story2",
+                "Label": "B8",
+                "UniqueName": 69,
+                "Section": "CB-12 40x60",
+                "Location": "End-J",
+                "Moment negative": -2340997.8,
+                "Combo": "6) 1.1CMT+1.1CVI-.33SDY-1.1SDX",
+                "As Top": 11.59,
+                "Moment positive": 721692.15,
+                "Combo.1": "6) 1.1CMT+1.1CVI-.33SDY-1.1SDX",
+                "As Bot": 4.55
+            },
+            {
+                "Story": "Story1",
+                "Label": "B11",
+                "UniqueName": 88,
+                "Section": "CB-12 40x60",
+                "Location": "End-J",
+                "Moment negative": -2266705.58,
+                "Combo": "6) 1.1CMT+1.1CVI-.33SDY-1.1SDX",
+                "As Top": 11.2,
+                "Moment positive": 680233.65,
+                "Combo.1": "6) 1.1CMT+1.1CVI-.33SDY-1.1SDX",
+                "As Bot": 4.28
+            }
+        ],
+        "Middle": [
+            {
+                "Story": "Story2",
+                "Label": "B10",
+                "UniqueName": 63,
+                "Section": "CB-12 40x60",
+                "Location": "Middle",
+                "Moment negative": -190712.06,
+                "Combo": "12) .9CMT+1.1SDX",
+                "As Top": 1.19,
+                "Moment positive": 1029918.75,
+                "Combo.1": "2) 1.3CMT+1.5CVM",
+                "As Bot": 6.03
+            },
+            {
+                "Story": "Story2",
+                "Label": "B9",
+                "UniqueName": 66,
+                "Section": "CB-12 40x60",
+                "Location": "Middle",
+                "Moment negative": -180606.81,
+                "Combo": "12) .9CMT+1.1SDX",
+                "As Top": 1.12,
+                "Moment positive": 1272617.37,
+                "Combo.1": "2) 1.3CMT+1.5CVM",
+                "As Bot": 6.11
+            },
+            {
+                "Story": "Story1",
+                "Label": "B10",
+                "UniqueName": 61,
+                "Section": "CB-12 40x60",
+                "Location": "Middle",
+                "Moment negative": -155582.59,
+                "Combo": "12) .9CMT+1.1SDX",
+                "As Top": 0.97,
+                "Moment positive": 1034859.57,
+                "Combo.1": "2) 1.3CMT+1.5CVM",
+                "As Bot": 6.03
+            }
+        ]
+    },
+    "max_positivos": {
+        "End-I": [
+            {
+                "Story": "Story2",
+                "Label": "B11",
+                "UniqueName": 90,
+                "Section": "CB-12 40x60",
+                "Location": "End-I",
+                "Moment negative": -2326797.02,
+                "Combo": "6) 1.1CMT+1.1CVI-.33SDY-1.1SDX",
+                "As Top": 11.52,
+                "Moment positive": 747603.37,
+                "Combo.1": "6) 1.1CMT+1.1CVI-.33SDY-1.1SDX",
+                "As Bot": 4.72
+            },
+            {
+                "Story": "Story2",
+                "Label": "B8",
+                "UniqueName": 69,
+                "Section": "CB-12 40x60",
+                "Location": "End-I",
+                "Moment negative": -2291280.69,
+                "Combo": "6) 1.1CMT+1.1CVI-.33SDY-1.1SDX",
+                "As Top": 11.33,
+                "Moment positive": 713511.58,
+                "Combo.1": "6) 1.1CMT+1.1CVI-.33SDY-1.1SDX",
+                "As Bot": 4.5
+            },
+            {
+                "Story": "Story1",
+                "Label": "B11",
+                "UniqueName": 88,
+                "Section": "CB-12 40x60",
+                "Location": "End-I",
+                "Moment negative": -2229282.99,
+                "Combo": "6) 1.1CMT+1.1CVI-.33SDY-1.1SDX",
+                "As Top": 11.0,
+                "Moment positive": 703827.36,
+                "Combo.1": "6) 1.1CMT+1.1CVI-.33SDY-1.1SDX",
+                "As Bot": 4.44
+            }
+        ],
+        "End-J": [
+            {
+                "Story": "Story2",
+                "Label": "B8",
+                "UniqueName": 69,
+                "Section": "CB-12 40x60",
+                "Location": "End-J",
+                "Moment negative": -2340997.8,
+                "Combo": "6) 1.1CMT+1.1CVI-.33SDY-1.1SDX",
+                "As Top": 11.59,
+                "Moment positive": 721692.15,
+                "Combo.1": "6) 1.1CMT+1.1CVI-.33SDY-1.1SDX",
+                "As Bot": 4.55
+            },
+            {
+                "Story": "Story2",
+                "Label": "B11",
+                "UniqueName": 90,
+                "Section": "CB-12 40x60",
+                "Location": "End-J",
+                "Moment negative": -2367841.72,
+                "Combo": "6) 1.1CMT+1.1CVI-.33SDY-1.1SDX",
+                "As Top": 11.74,
+                "Moment positive": 719473.61,
+                "Combo.1": "6) 1.1CMT+1.1CVI-.33SDY-1.1SDX",
+                "As Bot": 4.54
+            },
+            {
+                "Story": "Story1",
+                "Label": "B11",
+                "UniqueName": 88,
+                "Section": "CB-12 40x60",
+                "Location": "End-J",
+                "Moment negative": -2266705.58,
+                "Combo": "6) 1.1CMT+1.1CVI-.33SDY-1.1SDX",
+                "As Top": 11.2,
+                "Moment positive": 680233.65,
+                "Combo.1": "6) 1.1CMT+1.1CVI-.33SDY-1.1SDX",
+                "As Bot": 4.28
+            }
+        ],
+        "Middle": [
+            {
+                "Story": "Story1",
+                "Label": "B3",
+                "UniqueName": 82,
+                "Section": "CB-12 40x60",
+                "Location": "Middle",
+                "Moment negative": -10393.82,
+                "Combo": "12) .9CMT+1.1SDX",
+                "As Top": 0.06,
+                "Moment positive": 1284939.07,
+                "Combo.1": "2) 1.3CMT+1.5CVM",
+                "As Bot": 6.17
+            },
+            {
+                "Story": "Story2",
+                "Label": "B3",
+                "UniqueName": 84,
+                "Section": "CB-12 40x60",
+                "Location": "Middle",
+                "Moment negative": -28102.17,
+                "Combo": "12) .9CMT+1.1SDX",
+                "As Top": 0.17,
+                "Moment positive": 1281286.95,
+                "Combo.1": "2) 1.3CMT+1.5CVM",
+                "As Bot": 6.15
+            },
+            {
+                "Story": "Story3",
+                "Label": "B3",
+                "UniqueName": 83,
+                "Section": "CB-12 40x60",
+                "Location": "Middle",
+                "Moment negative": 0.0,
+                "Combo": "6) 1.1CMT+1.1CVI-.33SDY-1.1SDX",
+                "As Top": 0.0,
+                "Moment positive": 1276070.19,
+                "Combo.1": "2) 1.3CMT+1.5CVM",
+                "As Bot": 6.13
+            }
+        ]
+    }
+}

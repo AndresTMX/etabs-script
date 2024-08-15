@@ -1,0 +1,3 @@
+import etabs 
+
+etabs.calc()
